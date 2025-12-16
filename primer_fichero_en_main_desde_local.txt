@@ -1,1 +1,3 @@
 Two community-maintained APT repositories mirror the shiftkey/desktop project, both hosted in the United States. This method integrates GitHub Desktop into your standard system update workflow, updating automatically through apt upgrade commands.
+
+1) linea desde main
