@@ -10,6 +10,7 @@ cosas de paco en header
 body1
 bodi2
 body3
+PACO AÑADE COSAS AL BODY
 
 *******************Footer*******************
 footer 1
