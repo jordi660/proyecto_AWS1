@@ -4,16 +4,23 @@ Two community-maintained APT repositories mirror the shiftkey/desktop project, b
 
 1) linea desde main
 2) Paco modifica fichero
+VAR1 = BORRAMOS LAS COSAS DE PACO EN EL MAIN
+
 ******************Body*Header*******************
 body1
 bodi2
 body3
+PACO AÑADE COSAS AL BODY
 
 *******************Footer*******************
 footer 1
 footer 2
 footer 3
 cosas de pepe
+
+HEMOS BORRADO COSAS DE PEPE EN PACO
+
+
 *******************Nueva seccion Paco*******************
 
 
