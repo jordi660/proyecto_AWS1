@@ -1,1 +1,15 @@
+*******************Header*******************
+
 Two community-maintained APT repositories mirror the shiftkey/desktop project, both hosted in the United States. This method integrates GitHub Desktop into your standard system update workflow, updating automatically through apt upgrade commands.
+
+1) linea desde main
+2) Paco modifica fichero
+******************Body*Header*******************
+body1
+bodi2
+body3
+
+*******************Footer*******************
+footer 1
+footer 2
+footer 3
